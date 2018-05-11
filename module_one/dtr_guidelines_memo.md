@@ -30,23 +30,23 @@ Any additional questions that you would like to add:
 
 ### Template for DTR Memo
 
-Project: 
+Project: Linked List
 
-Group Member Names:
+Group Member Names: **Brandon C and Brandon F**
 
 Project Expectations: What does each group member hope to get out of this project? 
 
 Goals and expectations:
 	
-Team strengths:
+Team strengths: **persistance, open communication and good working relationship**
 
-How to overcome obstacles:
+How to overcome obstacles:  **address early, professionally but honest**
 
-Schedule Expectations (When are we available to work together and individually?):
+Schedule Expectations (When are we available to work together and individually?): **Sunday morning**
 
-Communication Expectations (How and often will we communicate? How do we keep lines of communication open?):
+Communication Expectations (How and often will we communicate? How do we keep lines of communication open?):  **Slack, text**
 
-Abilities Expectations (Technical strengths and areas for desired improvement):
+Abilities Expectations (Technical strengths and areas for desired improvement):  **BC JS/function BF HTML-CSS/design**
 
 Workload Expectations (What features do we each want to work on?):
 
